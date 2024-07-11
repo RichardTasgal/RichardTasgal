@@ -2,11 +2,13 @@
 - 👋 In published articles, Richard S. Tasgal (https://scholar.google.com/citations?user=R7ERRtMAAAAJ&hl=en).
 - 👀 Interested in: Optics, nonlinear dynamics, applied math
 - 👀           AND  machine learning, data science....
-- 👀 Recently: Did half a data science boot camp https://www.itc.tech/fellows-data-science/ and
+- 👀 Recently: Did half a data science boot camp and
 - 👀           completed Coursera's Machine Learning Specialization 
 - 👀           https://www.coursera.org/account/accomplishments/specialization/certificate/MA8FHDTBQ4UD 
-- 🌱 Currently: Working on Pick/Multivalue databases, but also looking for a full time job.
-- 💞️ Looking to collaborate on:  I dunno. Reach out. I'm all ears. Perhaps, for now, collaborate on a Kaggle.
+- 🌱 Currently: 50% position at Bar Ilan University working on machine reading of Judeo-Arabic manuscripts.
+-                See, for example, https://www.jpost.com/judaism/article-725184 .
+- 🌱            50% position at Afeka College of Engineering working on spoofing detection of audio.        
+- 💞️ Looking to collaborate on:  I dunno. Reach out. I'm all ears.
 - 📫 Reach me at:  tasgal@gmail.com, +972-50-6674325, https://www.linkedin.com/in/richardtasgal/
 
 <!---
