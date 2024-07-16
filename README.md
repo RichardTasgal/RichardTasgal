@@ -1,10 +1,7 @@
 - 👋 In GitHub, @RichardTasgal.
 - 👋 In published articles, Richard S. Tasgal (https://scholar.google.com/citations?user=R7ERRtMAAAAJ&hl=en).
-- 👀 Interested in: Optics, nonlinear dynamics, applied math
-- 👀           AND  machine learning, data science....
-- 👀 Recently: Did half a data science boot camp and
-- 👀           completed Coursera's Machine Learning Specialization 
-- 👀           https://www.coursera.org/account/accomplishments/specialization/certificate/MA8FHDTBQ4UD 
+- 👀 Interested in: Optics, acoustics, BECs, nonlinear dynamics (solitons...), applied math
+- 👀                AND  machine learning, data science....
 - 🌱 Currently: 50% position at Bar Ilan University working on machine reading of Judeo-Arabic manuscripts.
 -                See, for example, https://www.jpost.com/judaism/article-725184 .
 - 🌱            50% position at Afeka College of Engineering working on spoofing detection of audio.        
